@@ -1,5 +1,5 @@
 # Loser-Portal
-##Take starter code from space jam website
+##Inspired by Space Jam Website
 
 A picture of his avatar and a greeting
 “Hello, Welcome to my website”
