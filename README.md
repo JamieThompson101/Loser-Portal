@@ -25,4 +25,4 @@ Link to the deployed website:
 
 ## Questions:
 
-If you have any questions, feel free to send me them via my (github)[https://github.com/JamieThompson101]
+If you have any questions, feel free to send me them via my [github](https://github.com/JamieThompson101)
